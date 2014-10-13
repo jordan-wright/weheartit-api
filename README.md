@@ -2,7 +2,8 @@
 This document contains the details discovered for the We Heart It API. For more information about how this information was enumerated, see [here]().
 ### API Endpoints
 ----------
-Endpoint | 
+Endpoint |
+---------| 
 ```api/users/```|
 ```api/users/:id```|
 ```api/settings```|
