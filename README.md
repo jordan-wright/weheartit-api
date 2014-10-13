@@ -1,5 +1,5 @@
 # We Heart It API Documentation
-This document contains the details discovered for the We Heart It API. For more information about how this information was enumerated, see [here]().
+This document contains the details discovered for the We Heart It API. For more information about how this information was enumerated, see [here](https://jordan-wright.github.io/blog/2014/10/12/reverse-engineering-the-we-heart-it-api/).
 ### API Endpoints
 ----------
 Endpoint |
